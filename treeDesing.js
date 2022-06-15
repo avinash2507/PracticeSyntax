@@ -11,7 +11,7 @@ for(var a=10; a>=1; a--) {
     }    
     document.write("<br>");
 }
-for(var a=10; a>=1; a--) {
+for(var a=20; a>=1; a--) {
     for (var b=1; b <=a; b++) {
         document.write(`${b}`);
     }    
@@ -29,3 +29,4 @@ for(var a=1; a <10; a++) {
     }    
     document.write("<br>");
 }
+
